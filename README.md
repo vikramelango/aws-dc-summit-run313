@@ -6,11 +6,11 @@ You can implement machine learning (ML) in developer operations even without pri
 
 Follow the instructions given by the workshop administrators on how to log in to the AWS account provided for this workshop. Do NOT use your personal or business account to run this workshop, as the required pre-built resources will not be available. 
 
-* [Step 0: Event Engine AWS Account access](#event-engine)
-* Step 1 : Github Account
-* Step 2 : Pre-requisites for Amazon Code Guru
-* Step 3: Code Change: Pull Request
-* Assignment
+* [Step 0: Event Engine AWS Account access](#step-0--event-engine-event-engine-aws-account-access)
+* [Step 1 : Github Account](#step-1--github-account) 
+* [Step 2 : Pre-requisites for Amazon Code Guru](#step-2--pre-requisites-for-amazon-code-guru)
+* [Step 3: Code Change: Pull Request](#step-3--code-change-pull-request)
+* [Assignment](#assignment)
 
 
 ## Step 0 : #event-engine Event Engine AWS Account access 
@@ -18,24 +18,33 @@ Follow the instructions given by the workshop administrators on how to log in to
 Go to: https://dashboard.eventengine.run/login. You will be redirected to the page below.
 
 ![Image: image1.png](images/image1.png)
+
 Enter the event hash you have received from your instructor.
 
 ![Image: image2.png](images/image2.png)
+
 Click on Email One-Time Password (OTP).
 
 ![Image: image3.png](images/image3.png)
+
 You are redirected to the following page:
 
 ![Image: image4.png](images/image4.png)
+
 Enter your email address and click on Send passcode.
 
 ![Image: image5.png](images/image5.png)
+
 You are redirected to the following page:
+
 ![Image: image6.png](images/image6.png)
+
 Check your mailbox, copy-paste the one-time password and click on Sign in.
 
 ![Image: image7.png](images/image7.png)
+
 You are redirected to the Team Dashboard. Click on AWS Console.
+
 ![Image: image8.png](images/image8.png)
 
 On the next screen, click on Open AWS Console.
