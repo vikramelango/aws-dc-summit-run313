@@ -4,7 +4,7 @@ You can implement machine learning (ML) in developer operations even without pri
 
 # Workshop Setup - AWS Account & GitHub Account
 
-Follow the instructions given by the workshop administrators on how to log in to the AWS account provided for this workshop. Do NOT use your personal or business account to run this workshop, as the required pre-built resources will not be available. Read through all steps below and watch the quick video before continuing.
+Follow the instructions given by the workshop administrators on how to log in to the AWS account provided for this workshop. Do NOT use your personal or business account to run this workshop, as the required pre-built resources will not be available. 
 
 * Step 0: Event Engine AWS Account access
 * Step 1 : Github Account
@@ -44,6 +44,8 @@ You are then redirected to the AWS Console.
 
 
 ## Step 1 :  Github Account
+
+** Skip this step if you have personal GitHub Account and proceed to Step 2
 
 * Open a web browser of your choice and navigate to github.com (http://github.com/) and choose Sign Up
 * Enter your email id (please make sure you have access to this email account)
