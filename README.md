@@ -2,7 +2,7 @@
 
 You can implement machine learning (ML) in developer operations even without prior experience. In this builder’s session workshop, learn how you can efficiently improve IT operations with AWS DevOps Guru and see how to improve software quality with CodeGuru.
 
-# Workshop Setup - AWS Account & GitHub Account
+# Workshop Setup
 
 Follow the instructions given by the workshop administrators on how to log in to the AWS account provided for this workshop. Do NOT use your personal or business account to run this workshop, as the required pre-built resources will not be available. 
 
