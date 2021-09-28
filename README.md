@@ -13,7 +13,7 @@ Follow the instructions given by the workshop administrators on how to log in to
 * Assignment
 
 
-## Step 0 :  Event Engine AWS Account access (#event-engine)
+## Step 0 : #event-engine Event Engine AWS Account access 
 
 Go to: https://dashboard.eventengine.run/login. You will be redirected to the page below.
 
