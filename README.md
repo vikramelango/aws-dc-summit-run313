@@ -16,30 +16,30 @@ Follow the instructions given by the workshop administrators on how to log in to
 
 Go to: https://dashboard.eventengine.run/login. You will be redirected to the page below.
 
-[Image: image1.png](images/image1.png)
+![Image: image1.png](images/image1.png)
 Enter the event hash you have received from your instructor.
 
-[Image: image2.png](images/image2.png)
+![Image: image2.png](images/image2.png)
 Click on Email One-Time Password (OTP).
 
-[Image: image3.png](images/image3.png)
+![Image: image3.png](images/image3.png)
 You are redirected to the following page:
 
-[Image: image4.png](images/image4.png)
+![Image: image4.png](images/image4.png)
 Enter your email address and click on Send passcode.
 
-[Image: image5.png](images/image5.png)
+![Image: image5.png](images/image5.png)
 You are redirected to the following page:
-[Image: image6.png](images/image6.png)
+![Image: image6.png](images/image6.png)
 Check your mailbox, copy-paste the one-time password and click on Sign in.
 
-[Image: image7.png](images/image7.png)
+![Image: image7.png](images/image7.png)
 You are redirected to the Team Dashboard. Click on AWS Console.
-[Image: image8.png](images/image8.png)
+![Image: image8.png](images/image8.png)
 
 On the next screen, click on Open AWS Console.
 
-[Image: image9.png](images/image9.png)
+![Image: image9.png](images/image9.png)
 You are then redirected to the AWS Console.
 
 
