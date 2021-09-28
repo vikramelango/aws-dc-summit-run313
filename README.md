@@ -7,9 +7,9 @@ You can implement machine learning (ML) in developer operations even without pri
 Follow the instructions given by the workshop administrators on how to log in to the AWS account provided for this workshop. Do NOT use your personal or business account to run this workshop, as the required pre-built resources will not be available. 
 
 * [Step 0: Event Engine AWS Account access](#step-0--event-engine-event-engine-aws-account-access)
-* [Step 1 : Github Account](#step-1--github-account) 
+* [Step 1 : Github Account](#step-1---github-account) 
 * [Step 2 : Pre-requisites for Amazon Code Guru](#step-2--pre-requisites-for-amazon-code-guru)
-* [Step 3: Code Change: Pull Request](#step-3--code-change-pull-request)
+* [Step 3: Code Change: Pull Request](#step-3-code-change-pull-request)
 * [Assignment](#assignment)
 
 
